@@ -3,4 +3,5 @@ https://addoncrop.com/youtube-video-downloader/
 PM
 https://github.com/ZhaoKaiQiang/PMNote/tree/master/%E7%94%B5%E5%AD%90%E4%B9%A6
 
-https://www.youtube.com/playlist?list=PLkNxDxyJqb-xD5EbDuIYC35Adq5f_w9CR
+https://www.youtube.com/playlist?list=PLkNxDxyJqb-xD5EbDuIYC35Adq5f_w9CR	C++ 数据结构与算法 刷题教程（共42小时）
+
